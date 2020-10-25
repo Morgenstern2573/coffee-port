@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+/* @import "custom.css"; */
+@tailwind utilities;
+
+/* @layer components {
+  
+} */
